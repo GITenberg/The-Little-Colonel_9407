@@ -1,0 +1,33 @@
+_repo: The-Little-Colonel_9407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: A spunky little girl who lives on her grandfather's farm in Kentucky
+  reunites a fragmented family after the Civil War.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Farm life -- Kentucky -- Juvenile fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcsh 'Kentucky -- Juvenile fiction'
+- !lcsh 'Grandfathers -- Juvenile fiction'
+- GITenberg
+title: The Little Colonel
+url: http://www.gutenberg.org/ebooks/9407
