@@ -1,5 +1,8 @@
 _repo: The-Little-Colonel_9407
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnston, Annie F. (Annie Fellows)
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: A spunky little girl who lives on her grandfather's farm in Kentucky
   reunites a fragmented family after the Civil War.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9407#The-Little-Colonel
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
